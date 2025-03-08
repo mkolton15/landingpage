@@ -17,7 +17,7 @@
 :root {
     --brand-color-primary: #F7B733;
     --brand-color-secondary: #FC4A1A;
-    --background-color: #09090B;
+    --bg-color: #09090B;
     --surface-color: #18181B;
     --stroke-color: #27272A;
     --text-color-secondary: #A1A1AA;
@@ -49,7 +49,7 @@ html {
 }
 
 body {
-    background-color: var(--background-color);
+    background-color: var(--bg-color);
 }
 
 h1, h2, h3 {
